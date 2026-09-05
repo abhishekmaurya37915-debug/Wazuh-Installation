@@ -60,13 +60,14 @@ After click on Adopction
 
 <img width="1917" height="781" alt="image" src="https://github.com/user-attachments/assets/ecb68a31-2490-4e7d-b7e6-adc449b711aa" />
 
+<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/d08e7a85-3ede-410a-924b-d0996ba97526" />
+
 
 Then type user id and password and login it..
+
 User Name - Admin 
 
 Password  - The password could be anything.
-
-<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/d08e7a85-3ede-410a-924b-d0996ba97526" />
 
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/90a88f27-6493-4bdc-b539-cfe010cda94f" />
 
