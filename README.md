@@ -72,3 +72,9 @@ Password  - The password could be anything.
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/90a88f27-6493-4bdc-b539-cfe010cda94f" />
 
 
+## Conclusion
+
+The Wazuh installation was successfully completed on an Ubuntu Linux environment. This project provided hands-on experience with deploying a security monitoring platform and understanding its core components.
+Through this implementation, I gained practical knowledge of security event monitoring, log analysis, vulnerability detection, endpoint monitoring, and centralized security management using the Wazuh Dashboard.
+This project strengthened my understanding of **SIEM, endpoint security, and security monitoring** and provided a foundation for further learning in SOC operations and threat detection.
+
